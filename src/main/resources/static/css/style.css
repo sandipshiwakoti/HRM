@@ -1,0 +1,21 @@
+body {
+  /* background-color: grey; */
+}
+
+.form-row {
+  border-bottom: 1px solid grey;
+  margin-bottom: 1rem;
+}
+
+.form-row-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.form-row-subtitle {
+  font-size: 0.8rem;
+  font-weight: bold;
+  border-bottom: 1px solid grey;
+  padding-bottom: 0.3rem;
+  display: inline-block;
+}
